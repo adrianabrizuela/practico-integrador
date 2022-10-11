@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+.container {
+    position: relative;
+    text-align: center;
+    color: black;
+  }
+
+  .top-right {
+    position: absolute;
+    top: 10%;
+    right: 20%;
+    font-size: 30px;
+
+  }
+
+  .middle-right {
+    position: absolute;
+    top: 30%;
+    right: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+
+  .bottom-right {
+    position: absolute;
+    top:70%;
+    right: 20%;
+  }
+
+
+.opcionAbajo {
+background-color: gray;
+color: white;
+
+}
+
+.menuAbajo {
+    background-color: #193249;
+    height: 60px;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+
+.linkAbajo > a {
+    color: white;
+    text-decoration: none;
+    font-size: 1rem;
+    padding: 2rem;
+   }
+
+.formulario{padding-left: 25%;
+  padding-right: 25%;
+
+}
