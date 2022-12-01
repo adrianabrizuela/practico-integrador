@@ -29,6 +29,9 @@
     right: 20%;
   }
 
+  .jumbotron {
+    background-image: url(../imagenes/ba1.jpg)
+  }
 
 .opcionAbajo {
 background-color: gray;
